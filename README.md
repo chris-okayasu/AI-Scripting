@@ -68,7 +68,7 @@ If the driver file has a different name or location (for example `chromedriver.e
 1. **Clone or download the repository**
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/chris-okayasu/AI-Scripting.git
 cd scripting
 ```
 
@@ -103,7 +103,7 @@ Use the correct path and filename for your setup.
 1. **Clone or download the repository**
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/chris-okayasu/AI-Scripting.git
 cd scripting
 ```
 
@@ -142,7 +142,7 @@ chrome_driver_path = "./chromedriver"
 1. **Clone or download the repository**
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/chris-okayasu/AI-Scripting.git
 cd scripting
 ```
 
